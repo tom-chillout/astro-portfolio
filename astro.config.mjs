@@ -5,4 +5,5 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
     // GitHub Pages setting
     site: 'https://tom-chillout.github.io',
+    base: '/astronautical-altitude',
 });
